@@ -1,5 +1,4 @@
 class Solution:
-  # Similar to 3349. Adjacent Increasing Subarrays Detection I
   def maxIncreasingSubarrays(self, nums: list[int]) -> int:
     ans = 0
     increasing = 1
